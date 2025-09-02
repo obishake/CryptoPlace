@@ -2,7 +2,6 @@
 
 CryptoPlace is a modern cryptocurrency marketplace web app built with React and Vite. It allows users to explore real-time crypto prices, view detailed coin analytics, and securely sign up or log in with Firebase authentication.
 
-![CryptoPlace Banner](src/assets/Background.jpg)
 
 ## ✨ Features
 
